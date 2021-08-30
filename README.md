@@ -1,9 +1,9 @@
 # UFO
 
-## Overview of Project: Explain the purpose of this analysis.
+## Overview
 Given a dataset, we were tasked with creating a webpage that would allow the user to not only view the data, but also filter the data to show exactly what they are looking for.  
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Results
 
 The process of working this website is relatively simple. When the website first loads, it will look like the following image. 
 
@@ -31,7 +31,7 @@ To narrow down the searche results for El Cajon, you can also add a filter for '
 
 It is an option to filter by all 5 filtering options if you wanted to get specific. 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary
 
 Overall this website design is very effecting and allows the user to quickly and easily filter the data to find relavent information. There is one major drawback to the website as it is now. The data is out of date and also stagnate. The data is currenty a snapshot of data from the first two weeks of January 2010. A great improvement would be to have access to a live dataset that is constantly updated giving the user more responses and more current data as well. There are a few improvements that could be made to make this site even better and more helpful. The first improvement would be to make sure the filtering tool works with both lower case and capital letters. Right now the filter only works with lower case letters. If you type in a correct city name, but add upper case letters, it will not return anything. A second improvement would be add duration as a 6th filter option. This would allow the user to filter by the length of time the UFO was observed. 
 
