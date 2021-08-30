@@ -7,6 +7,7 @@ Given a dataset, we were tasked with creating a webpage that would allow the use
 
 The process of working this website is relatively simple. When the website first loads, it will look like the image below. 
 
+![alt_image](static/images/Homepage.png)
 
 
 
